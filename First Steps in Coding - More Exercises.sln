@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36518.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Trapeziod Area", "01. Trapeziod Area\01. Trapeziod Area.csproj", "{097D31AA-88A2-452E-B7D1-405307766A30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Triangle Area", "02. Triangle Area\02. Triangle Area.csproj", "{0E0719EF-63DE-49B5-B877-D1462EB7B266}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{097D31AA-88A2-452E-B7D1-405307766A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{097D31AA-88A2-452E-B7D1-405307766A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{097D31AA-88A2-452E-B7D1-405307766A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0719EF-63DE-49B5-B877-D1462EB7B266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0719EF-63DE-49B5-B877-D1462EB7B266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0719EF-63DE-49B5-B877-D1462EB7B266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0719EF-63DE-49B5-B877-D1462EB7B266}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
