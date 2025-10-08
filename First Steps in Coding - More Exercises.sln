@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Triangle Area", "02. Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Celsius to Fahrenheit", "03. Celsius to Fahrenheit\03. Celsius to Fahrenheit.csproj", "{8C5BF82D-E30A-4CBB-8BA9-6C63A725C8C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Vegetable Market", "04. Vegetable Market\04. Vegetable Market.csproj", "{A506DCA5-388C-4B6C-8D18-60681E002E07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8C5BF82D-E30A-4CBB-8BA9-6C63A725C8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C5BF82D-E30A-4CBB-8BA9-6C63A725C8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C5BF82D-E30A-4CBB-8BA9-6C63A725C8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A506DCA5-388C-4B6C-8D18-60681E002E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A506DCA5-388C-4B6C-8D18-60681E002E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A506DCA5-388C-4B6C-8D18-60681E002E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A506DCA5-388C-4B6C-8D18-60681E002E07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
