@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Vegetable Market", "04.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Training Lab", "05. Training Lab\05. Training Lab.csproj", "{EE50570A-4CD7-48CF-A76D-63706A1FE8F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Fishland", "06. Fishland\06. Fishland.csproj", "{A65370F0-8C20-46E4-934E-8B996FEF330A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EE50570A-4CD7-48CF-A76D-63706A1FE8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE50570A-4CD7-48CF-A76D-63706A1FE8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE50570A-4CD7-48CF-A76D-63706A1FE8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65370F0-8C20-46E4-934E-8B996FEF330A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65370F0-8C20-46E4-934E-8B996FEF330A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65370F0-8C20-46E4-934E-8B996FEF330A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65370F0-8C20-46E4-934E-8B996FEF330A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
