@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Trapeziod Area", "01. Trapeziod Area\01. Trapeziod Area.csproj", "{097D31AA-88A2-452E-B7D1-405307766A30}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Fishland", "06. Fishland\06. Fishland.csproj", "{A65370F0-8C20-46E4-934E-8B996FEF330A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. House Painting", "07. House Painting\07. House Painting.csproj", "{8C89E480-5A35-404D-94B3-A5D8499C7D2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Circle Area and Perimeter", "08. Circle Area and Perimeter\08. Circle Area and Perimeter.csproj", "{968AF170-2535-4553-812F-526247B15BC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{8C89E480-5A35-404D-94B3-A5D8499C7D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C89E480-5A35-404D-94B3-A5D8499C7D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C89E480-5A35-404D-94B3-A5D8499C7D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{968AF170-2535-4553-812F-526247B15BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968AF170-2535-4553-812F-526247B15BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968AF170-2535-4553-812F-526247B15BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968AF170-2535-4553-812F-526247B15BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
